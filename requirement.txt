@@ -1,0 +1,2 @@
+Minimum requirements:
+numpy, pandas, scikit-learn, xgboost, torch, category-encoders, matplotlib
