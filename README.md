@@ -1,4 +1,4 @@
-Functional Dependency–Aware Learning under Data Quality Noise
+Functional Dependency–Aware Learning under Data Quality Noise.
 Investigating data quality issues in deep learning through functional dependency noise, feature pruning, and FD-aware regularization.
 This repository studies how functional dependency (FD) violations affect machine learning models and how FD-aware training can explicitly control the tradeoff between predictive accuracy and data quality. 
 The project moves from observing FD noise effects to enforcing FD constraints during training.
